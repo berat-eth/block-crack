@@ -17,7 +17,8 @@
     "react-native-reanimated": "~3.3.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "babel-preset-expo": "~9.5.0"
   },
   "private": true
 }
